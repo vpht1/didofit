@@ -2,7 +2,7 @@
 
 
 
-Latest update: November 24, 2021
+Latest update: April 9, 2024
 
 In order to fully protect your rights, we have updated the "Dido Fit Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
@@ -14,7 +14,7 @@ In order to fully protect your rights, we have updated the "Dido Fit Personal In
 
 # Overview
 
-Welcome to Dido Fit! Dido Fit is a free application developed by Dido (hereinafter referred to as "Dido Fit", "we","us","our service" or "our product").
+Welcome to Dido Fit! Dido Fit is a free application developed by Shenzhen Dido Technology Co., Ltd (hereinafter referred to as "Dido Fit", "we","us","our service" or "our product").
 
 Our privacy policy will elaborate on how we collect and use your personal information when you use our products and services, as well as the information control we provide you and the measures we take to protect information security.
 
@@ -467,5 +467,3 @@ For issues related to this policy or personal information protection, we will re
 
 
 (End)
-
-Dido
