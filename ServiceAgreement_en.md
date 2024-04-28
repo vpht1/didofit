@@ -1,6 +1,6 @@
 # Agreement on Service of Dido Fit
 
-Latest update: November 24, 2021
+Latest update: April 9, 2024
 
 
 
@@ -313,7 +313,7 @@ The service content refers to the software for health data viewing and managemen
 
 **13.7 If any clause of this terms is invalid or becomes invalid or unenforceable for any reason, the other clauses of this terms are still fully effective and binding on both parties of this terms. **
 
-**13.8 This terms takes effect on November 24, 2021. **
+**13.8 This terms takes effect on April 9, 2024. **
 
 
 
